@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard.vue renders correctly 1`] = `
+<div
+  class="animated fadeIn"
+>
+  <div
+    id="Dashboard"
+  >
+    Dashboard
+  </div>
+</div>
+`;
